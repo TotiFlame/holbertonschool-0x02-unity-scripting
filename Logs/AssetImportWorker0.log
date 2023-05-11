@@ -2392,3 +2392,21 @@ Received Import Request.
   path: Assets/Materials/coin.mat
   artifactKey: Guid(b4a3a2fc159b153479517bc1b8c29623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Materials/coin.mat using Guid(b4a3a2fc159b153479517bc1b8c29623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc48b775f7d7f570eb7791b0462aad37') in 0.098810 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 273.301244 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a948fc37ade0c1a092327fa27aeba3bd') in 0.015942 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 90.340583 seconds.
+  path: Assets/Prefab
+  artifactKey: Guid(6f09717cd1446394da031c4f970d47d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab using Guid(6f09717cd1446394da031c4f970d47d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb5c354c712a5e7ccede3a88dfa38666') in 0.012886 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.714181 seconds.
+  path: Assets/Prefab/Coin.prefab
+  artifactKey: Guid(19a224de43c49b74c8eee663acbbc28c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Coin.prefab using Guid(19a224de43c49b74c8eee663acbbc28c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb30d6d0393e7b37ed1376bea1d66950') in 0.032776 seconds 
